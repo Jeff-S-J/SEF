@@ -1,2 +1,5 @@
-ABC
-New line
+1. Pull your repo
+2. Modify anything
+3. Stage commits
+4. Comment your stage (separate - split into multiple stages)
+5. Push your repo
